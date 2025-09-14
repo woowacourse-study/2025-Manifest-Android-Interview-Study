@@ -85,6 +85,6 @@ Manifest-Android-Interview-Book-Study/
 
 ## 👥 스터디원
 
-| <img src="https://avatars.githubusercontent.com/u/105299421?v=4"/> | <img src="https://avatars.githubusercontent.com/u/171224212?v=4"/> | <img src="https://avatars.githubusercontent.com/u/183526990?v=4"/> |
-|:---------:|:---------:|:---------:|
-| [다이스](https://github.com/gahyunkim) | [채넛](https://github.com/ijh1298) | [제리](https://github.com/etama123) |
+| <img src="https://avatars.githubusercontent.com/u/105299421?v=4"/> | <img src="https://avatars.githubusercontent.com/u/171224212?v=4"/> | <img src="https://avatars.githubusercontent.com/u/183526990?v=4"/> | <img src="https://avatars.githubusercontent.com/u/58465973?v=4"/> | <img src="https://avatars.githubusercontent.com/u/82762769?v=4" /> |
+|:---------:|:---------:|:---------:|:---------:|:---------:|
+| [다이스](https://github.com/gahyunkim) | [채넛](https://github.com/ijh1298) | [제리](https://github.com/etama123) | [오이](https://github.com/cucumber99) | [동전](https://github.com/donghyun81) |
